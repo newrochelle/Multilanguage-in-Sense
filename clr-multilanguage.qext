@@ -1,0 +1,9 @@
+{
+    "name" : "Multilanguage (clr)",
+    "description" : "Multilanguage extension",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.1.0",
+    "preview" : "clr-multilanguage.png",
+    "author": "Qlik"
+}
